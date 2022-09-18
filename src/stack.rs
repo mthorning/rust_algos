@@ -36,7 +36,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_works() {
+    fn stack_works() {
         let values = vec!["one", "two", "three", "four", "five"];
         let mut stack = Stack::new();
 

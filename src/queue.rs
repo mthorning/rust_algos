@@ -45,7 +45,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_works() {
+    fn queue_works() {
         let mut queue = Queue::new();
 
         for number in 1..11 {

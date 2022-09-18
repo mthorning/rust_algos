@@ -3,3 +3,4 @@ pub mod bubble_sort;
 pub mod queue;
 pub mod stack;
 pub mod path_finder;
+pub mod quick_sort;

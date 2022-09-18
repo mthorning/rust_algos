@@ -27,7 +27,7 @@ mod tests {
     }
 
     #[test]
-    fn it_works() {
+    fn bubble_sort_works() {
         let mut input = get_randoms();
 
         let mut expected = input.clone();
